@@ -6,3 +6,4 @@ ZCZC W00 10 LO3 GitHub and git related, including commit, push, pull
 ZCZC W00 70 L31 Installing Debian with the help of a friend
 ZCZC W00 120 L88 Jogging around my house
 ZCZC W00 15 L09 Read W00 materials
+ZCZC W00 60 L80 Rewatching Better Call Saul finale
