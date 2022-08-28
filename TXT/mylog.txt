@@ -7,3 +7,10 @@ ZCZC W00 70 L31 Installing Debian with the help of a friend
 ZCZC W00 120 L88 Jogging around my house
 ZCZC W00 15 L09 Read W00 materials
 ZCZC W00 60 L80 Rewatching Better Call Saul finale
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 90 L02 ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L05 QUIZ
+ZCZC W00 60 L09 Weekly Assignments
