@@ -17,3 +17,4 @@ ZCZC W00 60 L09 Weekly Assignments
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 60 L15 Read materials
 ZCZC W00 90 L15 Continue reading materials from chapter 1 and 2
+ZCZC W01 110 L02 ZOOM meetings related
