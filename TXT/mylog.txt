@@ -20,3 +20,4 @@ ZCZC W00 90 L15 Continue reading materials from chapter 1 and 2
 ZCZC W01 110 L02 ZOOM meetings related
 ZCZC W01 120 L11 Setup a VirtualBox Debian Guest
 ZCZC W01 75 L11 Dress up your virtual guest + Pull from/push to github.com
+ZCZC W01 1 L99 Test
