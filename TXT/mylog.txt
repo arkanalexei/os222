@@ -22,4 +22,4 @@ ZCZC W01 120 L11 Setup a VirtualBox Debian Guest
 ZCZC W01 75 L11 Dress up your virtual guest + Pull from/push to github.com
 ZCZC W01 45 L24 Learning basic scripting in Linux
 ZCZC W01 60 L05 W01 Quiz as well as learning
-
+ZCZC W01 50 L13 Modified my github page by adding links.md, index,md, and other files
