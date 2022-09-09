@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: TIPS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
@@ -12,7 +12,7 @@ permalink: LINKS/
 <br>
 <hr>
 
-# LINKS
+# TIPS
 
 1. [One](https://en.wikipedia.org/wiki/1)<br>
 StarBucks ipsum dolor J.CO Do Not!
