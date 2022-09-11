@@ -14,15 +14,13 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [One](https://www.youtube.com/watch?v=26QPDBe-NB8)<<br>
+Operating Systems: Crash Course Computer Science #18 - CrashCourse
+A great introduction to OS in general, animated and entertaining.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Two](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
+The mind behind Linux | Linus Torvalds - TED
+Your typical TED Talk. While not academically helpful, it still provided me with great insights from the man who created Linux.
 
 3. [Three](https://en.wikipedia.org/wiki/3)<br>
 Liquorice bonbon lemon drops marshmallow.
