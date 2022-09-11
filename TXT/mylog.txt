@@ -25,3 +25,4 @@ ZCZC W01 60 L05 W01 Quiz as well as learning
 ZCZC W01 50 L13 Modified my github page by adding links.md, index,md, and other files
 ZCZC W01 30 L14 Updated links.md + created TXT/myupdate.txt
 ZCZC W01 60 L12 Continue watching/reading the resources provided in assignment #2
+ZCZC W01 95 L02 ZOOM meetings related
