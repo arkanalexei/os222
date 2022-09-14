@@ -26,3 +26,6 @@ ZCZC W01 50 L13 Modified my github page by adding links.md, index,md, and other 
 ZCZC W01 30 L14 Updated links.md + created TXT/myupdate.txt
 ZCZC W01 60 L12 Continue watching/reading the resources provided in assignment #2
 ZCZC W01 95 L02 ZOOM meetings related
+ZCZC W02 70 L12 Generating GnuPG Key Pair to Exporting Public Key
+ZCZC W02 30 L15 Script download
+ZCZC W02 30 L16 Finishing 
