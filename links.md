@@ -14,53 +14,26 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.youtube.com/watch?v=26QPDBe-NB8)<<br>
-Operating Systems: Crash Course Computer Science #18 - CrashCourse
-A great introduction to OS in general, animated and entertaining.
+## Week 1
 
-2. [Two](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
-The mind behind Linux | Linus Torvalds - TED
+1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)<<br>
+A great introduction to OS in general, animated and entertaining. Breaks down difficult concepts piece by piece so it is less difficult to comprehend.<br>
+
+2. [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
 Your typical TED Talk. While not academically helpful, it still provided me with great insights from the man who created Linux.
+Truly a visionary. Impacted billions of people worldwide but perhaps received less recognition than he should have.<br>
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Markdown Guide](https://www.markdownguide.org/)<br>
+An essential for OS course. Learning markdown is perhaps just as important as learning git.<br>
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+## Week 2
+1. [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)<br>
+A brief overview on asymmetric encription.
+I think it's relevant to this week's topic. Which is why I included it.<br>
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+2. [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)<br>
+Excellent explanation and animation by 3Blue1Brown regarding cryptography. It gives you an idea of just how secure 2^256 is. Or maybe, we still don't understand just HOW secure it is.
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
-
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
 
 <br>
 <hr>
