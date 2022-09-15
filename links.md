@@ -16,7 +16,7 @@ permalink: LINKS/
 
 ## Week 1
 
-1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)<<br>
+1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
 A great introduction to OS in general, animated and entertaining. Breaks down difficult concepts piece by piece so it is less difficult to comprehend.<br>
 
 2. [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
