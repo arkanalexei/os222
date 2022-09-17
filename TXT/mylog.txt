@@ -36,3 +36,4 @@ ZCZC W02 150 L11 Finished intro to cybersecurity
 ZCZC W02 65 L64 Assisting a friend for W02
 ZCZC W02 60 L05 W02 Quiz as well as learning
 ZCZC W02 35 L14 Reviewed links
+ZCZC W02 45 L11 Reviewed privacy chapter of assignment #1
