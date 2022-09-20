@@ -13,7 +13,7 @@
 Welcome to my humble abode!
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-This is definitely  the way!
+This is definitely the way!
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
