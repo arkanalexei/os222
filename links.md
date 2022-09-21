@@ -34,6 +34,13 @@ I think it's relevant to this week's topic. Which is why I included it.<br>
 2. [How secure is 256 bit security?](https://www.youtube.com/watch?v=S9JGmA5_unY)<br>
 Excellent explanation and animation by 3Blue1Brown regarding cryptography. It gives you an idea of just how secure 2^256 is. Or maybe, we still don't understand just HOW secure it is.
 
+## Week 3
+1. [File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
+Everything you need to know regarding file systems in Unix/Linux. Comprehensive as well. With examples provided<br>
+
+2. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Exactly as the title suggests. Great for those who are on the go or busy!
+
 
 <br>
 <hr>
