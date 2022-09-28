@@ -39,8 +39,14 @@ Excellent explanation and animation by 3Blue1Brown regarding cryptography. It gi
 Everything you need to know regarding file systems in Unix/Linux. Comprehensive as well. With examples provided<br>
 
 2. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
-Exactly as the title suggests. Great for those who are on the go or busy!
+Exactly as the title suggests. Great for those who are on the go or busy!<br>
 
+## Week 4
+1. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+This video is actually pretty helpful in helping me understand pointers. It's witty and relatable(?). But often I refer to this video when I need a refresher on pointers.<br>
+
+2. [Logical vs Physical address space | OS | Lec-32 | Bhanu Priya](https://www.youtube.com/watch?v=dDs53dBjErA)<br>
+Basically a 7.5 minute lecture. Helped me understand the topic a little better, though!<br>
 
 <br>
 <hr>

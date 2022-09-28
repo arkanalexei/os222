@@ -46,3 +46,7 @@ ZCZC W03 120 L00 Offline class in 3114
 ZCZC W03 60 L05 Revising for Week 03 Quiz 01 and doing the quiz
 ZCZC W03 30 L11 Read a little of chapter 13
 ZCZC W03 65 L11 Read chapter 14 and 15
+ZCZC W04 45 L12 Compiling TLPI
+ZCZC W04 120 L02 ZOOM meetings related
+ZCZC W04 30 L11 Demos
+ZCZC W04 70 L13 Update links.md and reviewed some peer's links
