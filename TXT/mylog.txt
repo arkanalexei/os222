@@ -51,3 +51,6 @@ ZCZC W04 120 L02 ZOOM meetings related
 ZCZC W04 30 L11 Demos
 ZCZC W04 70 L13 Update links.md and reviewed some peer's links
 ZCZC W04 120 L00 Offline class in 3114
+ZCZC W04 60 L05 W04 Quiz + Studying
+ZCZC W04 30 L87 Made delicious homemade dinner
+ZCZC W04 30 L64 Help friend with pop quiz
