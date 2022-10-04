@@ -48,6 +48,13 @@ This video is actually pretty helpful in helping me understand pointers. It's wi
 2. [Logical vs Physical address space | OS | Lec-32 | Bhanu Priya](https://www.youtube.com/watch?v=dDs53dBjErA)<br>
 Basically a 7.5 minute lecture. Helped me understand the topic a little better, though!<br>
 
+## Week 5
+1. [What's Virtual Memory?](https://www.youtube.com/watch?v=5lFnKYCZT5o)<br>
+Taken from the famous YouTube channel Computerphile (from the guys who made Numberphile). Great stuff in general.<br>
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Explanation by GeeksforGeeks. I recommend this website due to its in-depth explanation.<br>
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

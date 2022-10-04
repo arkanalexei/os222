@@ -54,3 +54,6 @@ ZCZC W04 120 L00 Offline class in 3114
 ZCZC W04 60 L05 W04 Quiz + Studying
 ZCZC W04 30 L87 Made delicious homemade dinner
 ZCZC W04 30 L64 Help friend with pop quiz
+ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W05 15 L13 Script download
+ZCZC W05 70 L14 Modifying mymemory2.c
