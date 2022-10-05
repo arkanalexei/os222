@@ -57,3 +57,7 @@ ZCZC W04 30 L64 Help friend with pop quiz
 ZCZC W05 120 L02 ZOOM meetings related
 ZCZC W05 15 L13 Script download
 ZCZC W05 70 L14 Modifying mymemory2.c
+ZCZC W05 60 L11 Reading Silberschatz ch 10 + trying demos
+ZCZC W05 20 L12 Finding out how low i can go
+ZCZC W05 65 L15 Finishing up on W05
+ZCZC W05 120 L00 Offline class in 3114
