@@ -61,3 +61,4 @@ ZCZC W05 60 L11 Reading Silberschatz ch 10 + trying demos
 ZCZC W05 20 L12 Finding out how low i can go
 ZCZC W05 65 L15 Finishing up on W05
 ZCZC W05 120 L00 Offline class in 3114
+ZCZC W05 15 L14 Redo assignment #4 because of mistake (mea culpa)
