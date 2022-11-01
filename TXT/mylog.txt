@@ -62,3 +62,7 @@ ZCZC W05 20 L12 Finding out how low i can go
 ZCZC W05 65 L15 Finishing up on W05
 ZCZC W05 120 L00 Offline class in 3114
 ZCZC W05 15 L14 Redo assignment #4 because of mistake (mea culpa)
+ZCZC W06 30 L11 Updated my kernel (needed time to figure out how to)
+ZCZC W06 20 L12 Ran scripts
+ZCZC W06 20 L13 Finished assignment #3
+ZCZC W06 40 L14 Updated links.md
