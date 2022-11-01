@@ -55,6 +55,13 @@ Taken from the famous YouTube channel Computerphile (from the guys who made Numb
 2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Explanation by GeeksforGeeks. I recommend this website due to its in-depth explanation.<br>
 
+## Week 6
+1. [Processes and Threads (Concurrency Basics)](https://www.youtube.com/watch?v=Wv7mzX8w3jI)<br>
+A short yet informative video on this week's topic. Only ~5 minutes long. Highly recommend you to watch!<br>
+
+2. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+Prefer to read instead? Enjoy this article that someone else on the internet have compiled for you. Happy reading! <br>
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
