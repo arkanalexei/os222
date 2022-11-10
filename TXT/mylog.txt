@@ -70,3 +70,8 @@ ZCZC W06 120 L00 Offline class Tuesday
 ZCZC W06 120 L00 Offline class Thursday
 ZCZC W06 60 L11 Read a bit of Silberschatz for uqiz
 ZCZC W06 30 L05 Quiz + studying
+ZCZC W07 25 L11 Tried demos and update debian
+ZCZC W07 15 L12 Script download and run
+ZCZC W07 40 L13 Synchronization
+ZCZC W07 120 L00 Offline class Tuesday
+ZCZC W07 35 L14 Updated links.md

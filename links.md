@@ -62,6 +62,12 @@ A short yet informative video on this week's topic. Only ~5 minutes long. Highly
 2. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
 Prefer to read instead? Enjoy this article that someone else on the internet have compiled for you. Happy reading! <br>
 
+## Week 7
+1. [Process Synchronization Playlist](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)<br>
+This channel has saved my grades multiple times in the past. I trust in these guys on my OS grade as well. 🙏🙏<br>
+
+2. [Regarding Deadlocks](http://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
+A short yet concise summary of deadlocks courtesy of the University of Illinois Chicago. Interesting!<br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
