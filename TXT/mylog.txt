@@ -75,3 +75,5 @@ ZCZC W07 15 L12 Script download and run
 ZCZC W07 40 L13 Synchronization
 ZCZC W07 120 L00 Offline class Tuesday
 ZCZC W07 35 L14 Updated links.md
+ZCZC W07 120 L00 Offline class Thursday
+ZCZC W07 60 L11 Read Silberchatz and studying for quiz
