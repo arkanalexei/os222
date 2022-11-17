@@ -77,3 +77,9 @@ ZCZC W07 120 L00 Offline class Tuesday
 ZCZC W07 35 L14 Updated links.md
 ZCZC W07 120 L00 Offline class Thursday
 ZCZC W07 60 L11 Read Silberchatz and studying for quiz
+ZCZC W08 40 L11 Readings and demos (assignment #1)
+ZCZC W08 120 L00 Offline class Tuesday
+ZCZC W08 35 L12 Script download
+ZCZC W08 240 L13 LFS Chapter 1-5. Oh boy was this difficult!
+ZCZC W08 55 L14 Links.md
+ZCZC W08 120 L00 Offline class Thursday

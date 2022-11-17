@@ -68,6 +68,20 @@ This channel has saved my grades multiple times in the past. I trust in these gu
 
 2. [Regarding Deadlocks](http://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
 A short yet concise summary of deadlocks courtesy of the University of Illinois Chicago. Interesting!<br>
+
+## Week 8 
+1. [Process Scheduling in Linux](https://medium.com/geekculture/process-scheduling-in-linux-592028a5d545)<br>
+A Medium article on Scheduling. Also includes a cute doggo pic. <br>
+
+2. [expat-2.4.8.tar.xz](https://github.com/libexpat/libexpat/releases/tag/R_2_4_8)<br>
+If you are following this week's instructions, chances are you will see that expat.2.4.8.tar.xz is not available to download. To counter this, I've provided you a mirror link to get it since the original link is broken.<br>
+
+3. [zlib-1.2.12.tar.xz](https://distfiles.macports.org/zlib/)<br>
+Same issue with expat. Here I've provided a link for the zlib library. Enjoy!<br>
+
+4. [Process Scheduling Video](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
+Same concept as the Medium link. But now in video! Courtesy of Neso Academy on YouTube.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
