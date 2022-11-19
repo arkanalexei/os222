@@ -85,3 +85,4 @@ ZCZC W08 55 L14 Links.md
 ZCZC W08 120 L00 Offline class Thursday
 ZCZC W08 60 L05 Read Silberchatz and studying for quiz
 ZCZC W08 30 L05 Popquiz W08
+ZCZC W08 240 L13 I redid my LFS Chapter 1-5 because well.. Why not
