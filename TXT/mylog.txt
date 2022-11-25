@@ -86,3 +86,7 @@ ZCZC W08 120 L00 Offline class Thursday
 ZCZC W08 60 L05 Read Silberchatz and studying for quiz
 ZCZC W08 30 L05 Popquiz W08
 ZCZC W08 240 L13 I redid my LFS Chapter 1-5 because well.. Why not
+ZCZC W09 10 L11 Updated guest
+ZCZC W09 25 L12 Ran and downloaded scripts
+ZCZC W09 360 L13 The last process of chapter 7 took such a long time that I left it running while I slept
+ZCZC W09 30 L14 Reviewed links and finishing

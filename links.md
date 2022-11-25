@@ -82,6 +82,13 @@ Same issue with expat. Here I've provided a link for the zlib library. Enjoy!<br
 4. [Process Scheduling Video](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
 Same concept as the Medium link. But now in video! Courtesy of Neso Academy on YouTube.
 
+## Week 9
+1. [Understanding and Using Systemd](https://www.linux.com/training-tutorials/understanding-and-using-systemd/)<br>
+I love this explanation of Systemd. Written by Carla Schroder of Linux.com
+
+2. [Why Linux Torvalds doesn't use Ubuntu or Debian](https://www.youtube.com/watch?v=qHGTs1NSB1s)<br>
+Why doesn't he use Ubuntu or Debian? Nobody knows! Watch this video to find out!!
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
