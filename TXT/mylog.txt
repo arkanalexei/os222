@@ -90,3 +90,7 @@ ZCZC W09 10 L11 Updated guest
 ZCZC W09 25 L12 Ran and downloaded scripts
 ZCZC W09 360 L13 The last process of chapter 7 took such a long time that I left it running while I slept
 ZCZC W09 30 L14 Reviewed links and finishing
+ZCZC W10 30 L11 Assignment #1
+ZCZC W10 45 L12 Assignment #2
+ZCZC W10 600 L13 LFS Chapter 8
+ZCZC W10 20 L14 Finishing

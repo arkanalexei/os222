@@ -89,6 +89,17 @@ I love this explanation of Systemd. Written by Carla Schroder of Linux.com
 2. [Why Linux Torvalds doesn't use Ubuntu or Debian](https://www.youtube.com/watch?v=qHGTs1NSB1s)<br>
 Why doesn't he use Ubuntu or Debian? Nobody knows! Watch this video to find out!!
 
+## Week 10
+Does anyone actually reads this? Well, I assume no so for Week 10 I'll provide some of my favorite video essays instead.<br>
+1. [The man who tried to fake an element](https://www.youtube.com/watch?v=Qe5WT22-AO8)<br>
+Amazing visualization and story telling. Highly recommend.<br>
+
+2. [The Dark Side Of The Silk Road](https://www.youtube.com/watch?v=GpMP6Nh3FvU)<br>
+Silk Road is perhaps the most popular website on the dark web. This video encompasses the founder's (Ross Ulbricht) journey on developing the site.<br>
+
+3. [Disney's FastPass: A Complicated History](https://www.youtube.com/watch?v=9yjZpBq1XBE)<br>
+You'll notice that all of the videos I've provided are over 1 hour long. Welp, I guess I like my videos long and slow-paced ;)<br>
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
