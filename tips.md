@@ -27,9 +27,10 @@ Trust me, it adds up!
 Be prepared by checking the forums often. Or pray that you are not in ATTN :)
 
 ## Find another Hugo in your class
-Can't stress how much this dude helped with my OS course from tutorials to troubleshooting. So, be kind to your peers and your peers will help you ^__^
+Can't stress how much this particular friend helped me with my OS course from tutorials to troubleshooting.
+I hereby dedicate arkanalexei.com/os222/TIPS/ as a sign of my gratitude to you ! 
 [Hugo's OS222 Page](https://hugo-setiawan.github.io/os222/)
-Don't forget to be respectful though! Thank you Sir Hugo !!
+
 
 <br>
 <hr>
