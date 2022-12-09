@@ -26,6 +26,11 @@ Trust me, it adds up!
 ## Check SCeLE Often
 Be prepared by checking the forums often. Or pray that you are not in ATTN :)
 
+## Find another Hugo in your class
+Can't stress how much this dude helped with my OS course from tutorials to troubleshooting. So, be kind to your peers and your peers will help you ^__^
+[Hugo's OS222 Page](https://hugo-setiawan.github.io/os222/)
+Don't forget to be respectful though! Thank you Sir Hugo !!
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
